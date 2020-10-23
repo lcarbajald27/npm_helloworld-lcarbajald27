@@ -1,0 +1,14 @@
+{
+  "name": "npm_helloworld-lcarbajald27",
+  "version": "1.0.0",
+  "description": "Hola este es mi segundo proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Carbajal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
